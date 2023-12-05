@@ -1,2 +1,5 @@
-# gis_ml_workshop_2024
-Content for the Machine Learning GIS workshop at the Technion
+# GIS Machine Learning Workshop 2024
+
+## Exercises
+
+## Resources
