@@ -2,4 +2,9 @@
 
 ## Exercises
 
+1. Getting Started
+
 ## Resources
+
+Kagle
+How to connet to kaggle from colab
