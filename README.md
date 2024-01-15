@@ -1,3 +1,5 @@
+<img src='images/course_logo_2024.jpg'/>
+
 # GIS Machine Learning Workshop 2024
 
 ## Exercises
