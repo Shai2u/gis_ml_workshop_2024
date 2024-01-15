@@ -4,4 +4,6 @@
 
 ## Exercises
 
-1. (Getting Started)[Ex/Ex_1.ipynb] Machine Learning introduction, Jupyter Nobebooks and Numpy
+1. [Getting Started](Ex/Ex_1.ipynb) Machine Learning introduction, Jupyter Nobebooks and Numpy
+
+# Resources
