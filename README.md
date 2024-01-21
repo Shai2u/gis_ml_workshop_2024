@@ -4,8 +4,8 @@
 
 ## Exercises
 
-1. [Getting Started](Ex/Ex_1.ipynb) Machine Learning introduction, Jupyter Nobebooks and Numpy
-2. [Data cleaning and Exploration Data analysis](Ex/Ex_2.ipynb) Pnadas hands on, Plotly, Widgets
+1. [Getting Started](Ex/Ex 1/Ex_1.ipynb) Machine Learning introduction, Jupyter Nobebooks and Numpy
+2. [Data cleaning and Exploration Data analysis](Ex/Ex 2/Ex_2.ipynb) Pnadas hands on, Plotly, Widgets
 
 # Resources
 
