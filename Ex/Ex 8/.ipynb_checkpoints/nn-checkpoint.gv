@@ -1,0 +1,42 @@
+digraph G {
+    rankdir = "LR"
+    ranksep=4;
+    b1 [style=filled, color=lightblue ,rank =top, order=4, label = 1]
+    f1 [rank =top, order=1]
+    f2 [rank =top, order=2]
+    f3 [rank =top, order=3]
+
+    b2 [style=filled, color=lightblue ,rank =top, order=4 , label = 1]
+    h2 [rank =top, order=2]
+    h3 [rank =top, order=3]
+    h1 [rank =top, order=1]
+    h4 [rank =top, order=4]
+    h5 [rank =top, order=5]
+
+    f1 -> h1 [label=<<font color="red">w1</font>   0.1> ] ;
+    f2 -> h1 [label=<<font color="red">w2</font>   0.13>] ;
+    f3 -> h1 [label=<<font color="red">w3</font>   0.23>] ;
+    f1 -> h2 [label=<<font color="red">w4</font>   0.2>] ;
+    f2 -> h2 [label=<<font color="red">w5</font>   0.14>] ;
+    f3 -> h2 [label=<<font color="red">w6</font>   0.24>] ;
+    f1 -> h3 [label=<<font color="red">w7</font>   0.3>] ;
+    f2 -> h3 [label=<<font color="red">w8</font>   0.15>] ;
+    f3 -> h3 [label=<<font color="red">w9</font>   0.11>] ;
+    f1 -> h4 [label=<<font color="red">w10</font>   0.11>] ;
+    f2 -> h4 [label=<<font color="red">w11</font>   0.21>] ;
+    f3 -> h4 [label=<<font color="red">w12</font>   0.09>] ;
+    f1 -> h5 [label=<<font color="red">w13</font>   0.12>] ;
+    f2 -> h5 [label=<<font color="red">w14</font>   0.22>] ;
+    f3 -> h5 [label=<<font color="red">w15</font>   0.08>] ;
+    b1 -> h1 [style =dashed color=lightblue label= 0.1]
+    b1 -> h2 [style =dashed color=lightblue  label= 0.1]
+    b1 -> h3 [style =dashed color=lightblue  label= 0.1]
+    b1 -> h4 [style =dashed color=lightblue  label= 0.1]
+    b1 -> h5 [style =dashed color=lightblue  label= 0.1]
+    h1 -> o [label=<<font color="red">w16</font>   0.08>] ;
+    h2 -> o [label=<<font color="red">w17</font>   0.09>] ;
+    h3 -> o [label=<<font color="red">w18</font>   0.10>] ;
+    h4 -> o [label=<<font color="red">w19</font>   0.11>] ;
+    h5 -> o [label=<<font color="red">w20</font>   0.12>] ;
+    b2 -> o [style =dashed color=lightblue label= 0.12]
+}
