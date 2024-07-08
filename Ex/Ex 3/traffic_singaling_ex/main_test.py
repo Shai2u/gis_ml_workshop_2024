@@ -119,6 +119,6 @@ simulator1.show_subgraph(2, 4, 3, True)
 degrees = dict(simulator1.G.degree())
 
 # Find the shortest path between two nodes.
-shortest_path = nx.shortest_path(G, source=1, target=4)
+shortest_path = nx.shortest_path(simulator1.G, source=1, target=4)
 print("Shortest path:", shortest_path)
 
