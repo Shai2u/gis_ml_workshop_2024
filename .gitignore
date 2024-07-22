@@ -8,3 +8,5 @@ README.md
 .DS_Store
 .DS_Store
 .venv
+Ex/Ex 4/mnist_train.csv
+Ex/Ex 4/mnist_test.csv
